@@ -38,7 +38,7 @@ if you need production use please wait for completion of the project or use vers
 
 
 ```
-$ git clone https://github.com/Aamir-iu/SMS_Backups.git -b v2.0-dev --single-branch
+$ git clone https://github.com/Aamir-iu/SMS-school-managment-system-.git -b v2.0-dev --single-branch
 ```
 ```
 $ cd school-management-system
